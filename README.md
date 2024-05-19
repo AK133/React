@@ -10,7 +10,7 @@ To run the Fitness Tracker App, follow these steps:
 2. Install dependencies:
 
 ```bash
-cd fitness_tracker
+cd react
 npm install
 ```
 
