@@ -5,11 +5,7 @@ Welcome to the Fitness Tracker App repository, a mobile application designed for
 
 To run the Fitness Tracker App, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/orestesgaolin/fitness_tracker.git
-```
+1. Clone the repository
 
 2. Install dependencies:
 
